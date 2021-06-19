@@ -9,6 +9,7 @@ fakeroot
 filezilla
 flatpak
 gcc
+gdb
 gdl
 gdm
 git
@@ -39,6 +40,7 @@ gnome-themes-extra
 gnome-tweaks
 gnome-user-docs
 gnome-user-share
+gnu-netcat
 google-chrome
 gperftools
 grub
@@ -59,9 +61,11 @@ linux-lts
 linux-lts-headers
 lsb-release
 make
+mariadb
 metasploit
 mongodb-bin
 mongodb-compass
+nano
 nautilus
 net-tools
 netbeans
@@ -73,6 +77,7 @@ openvpn
 p0f
 packettracer
 patchelf
+postfix
 pulseaudio
 python-cheetah3
 python-psutil
@@ -85,6 +90,7 @@ python2-cheetah3
 python2-setuptools
 scons
 sudo
+tmux
 transmission-gtk
 unrar
 vim
