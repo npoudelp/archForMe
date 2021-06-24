@@ -1,0 +1,5 @@
+#VMware sometimes fails to run machines in it throwing error of broken pipe and other.
+
+sudo /etc/init.d/vmware start
+
+#Better to keep alias for the process
